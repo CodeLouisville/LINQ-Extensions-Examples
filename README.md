@@ -1,2 +1,2 @@
-# LINQ-Extensions-Examples
-Examples using LINQ Extensions for the Software Development Pathway.
+# Classrom Demonstrations
+Projects that have examples of concepts we've discussed in the Software Development Pathway class.
